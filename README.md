@@ -16,17 +16,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<!--
-**MadsMikkelsen1/MadsMikkelsen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3d4cmw2eW16NWYweTZkYnIwbGpjbWJ1Z3k4bXdkZmpxanR2dXV3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTXVcHJgJ4yoeI/giphy.gif" width="600" height="300"/>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me:
+I am a MSc student at University of La Laguna, Tenerife, where I am pursuing my speciality in observational and instrumentational astronomy. I acquired my Bachelor's Degree in physics and astronomy from Aarhus University, Denmark.
+- 🏡 I'm from Denmark but love exploring different regions of the world.
+- ❄️ I work with laboratory astrochemistry -- specifically with methyl formate and ethanol in interstellar ice analogues.
+- ⚡ In my free time, I like doing data analysis and play video games.
+- 🌱 I'm currently improving my skills in various programming languages.
+- 📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mads-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mads-mikkelsen1/) or via [![Email Badge](https://img.shields.io/badge/Mads-blue?style=flat&logo=gmail&logoColor=white)](mailto:madsmikkelsen99@proton.me)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadsMikkelsen1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
