@@ -16,14 +16,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3d4cmw2eW16NWYweTZkYnIwbGpjbWJ1Z3k4bXdkZmpxanR2dXV3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTXVcHJgJ4yoeI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### 👨‍💻 About Me:
-I am a MSc student at University of La Laguna, Tenerife, where I am pursuing my speciality in observational and instrumentational astronomy. I acquired my Bachelor's Degree in physics and astronomy from Aarhus University, Denmark.
+I am a MSc student at University of La Laguna, Tenerife 🇮🇨☀️ where I am pursuing my speciality in observational and instrumentational astronomy 🔭
+🎓 I acquired my Bachelor's Degree in physics and astronomy from Aarhus University, Denmark 🇩🇰
 - 🏡 I'm from Denmark but love exploring different regions of the world.
 - ❄️ I work with laboratory astrochemistry -- specifically with methyl formate and ethanol in interstellar ice analogues.
 - ⚡ In my free time, I like doing data analysis and play video games.
