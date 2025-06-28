@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a MSc student at University of La Laguna, Tenerife 🇮🇨☀️ where I am pursuing my speciality in observational and instrumentational astronomy 🔭
+I am an astrophysicist and an avid astrophotographer, but I would love to continue my future work examining the interplay between meteoritic impacts of planets / icy bodies and the surface chemistry to understand the formation / destruction pathways of molecules.
 🎓 I acquired my Bachelor's Degree in physics and astronomy from Aarhus University, Denmark 🇩🇰
 - 🏡 I'm from Denmark but love exploring different regions of the world.
 - ❄️ I work with laboratory astrochemistry -- specifically with methyl formate and ethanol in interstellar ice analogues.
