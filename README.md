@@ -28,4 +28,5 @@ I am a MSc student at University of La Laguna, Tenerife 🇮🇨☀️ where I a
 - 📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mads-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mads-mikkelsen1/) or via [![Email Badge](https://img.shields.io/badge/Mads-blue?style=flat&logo=gmail&logoColor=white)](mailto:madsmikkelsen99@proton.me)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadsMikkelsen1&layout=donut&theme=vision-friendly-dark)](https://github.com/MadsMikkelsen1?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadsMikkelsen1&layout=donut&theme=vision-friendly-dark&hide=Jupyter%20Notebook)](https://github.com/MadsMikkelsen1?tab=repositories)
+
